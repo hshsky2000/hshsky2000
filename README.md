@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Sun
+I'm a full stack MERN developer with a background in hospitality industry.
+In my free time I love travel and play tennis.
+
 ![](https://komarev.com/ghpvc/?username=hshsky2000)
 
 ![alt text](https://i.imgur.com/Rsfv60X.png)

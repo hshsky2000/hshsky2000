@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sun
 ![](https://komarev.com/ghpvc/?username=hshsky2000)
 
-![image](blob:https://imgur.com/13872374-04f8-407a-b9cc-38c14d30825c)
+![alt text](https://i.imgur.com/Rsfv60X.png)
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

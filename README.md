@@ -1,6 +1,15 @@
 ### Hi there 👋 I'm Sun
-I'm a full stack MERN developer with a background in hospitality industry.
+I'm a full stack developer with a background in hospitality industry.
 In my free time I love travel and play tennis.
+### Talking about Personal Stuffs:
+
+  👨🏻‍💻 I’m currently working on a restaurant review application;
+  
+  🚀 I’m currently learning Data Structures and Algorithms;
+  
+  📫 How to reach me: hshsky2000@gmail.com;
+  
+  📝 [Portfolio Site.](https://hshsky2000.github.io/sun_hwang.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=hshsky2000)
 
@@ -20,13 +29,5 @@ In my free time I love travel and play tennis.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshsky2000&layout=compact&theme=vision-friendly-dark)](https://github.com/hshsky2000/github-readme-stats)
 
-### Talking about Personal Stuffs:
 
-  👨🏻‍💻 I’m currently working on a restaurant review application;
-  
-  🚀 I’m currently learning Data Structures and Algorithms;
-  
-  📫 How to reach me: hshsky2000@gmail.com;
-  
-  📝 [Portfolio Site.](https://hshsky2000.github.io/sun_hwang.github.io/)
 

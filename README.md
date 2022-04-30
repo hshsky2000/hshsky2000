@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sun
 I'm a full stack developer with a background in hospitality industry.
-In my free time I love travel#✈️#and play tennis🎾
+In my free time I love travel ✈️ and play tennis 🎾
 ### Talking about Personal Stuffs:
 
   👨🏻‍💻 I’m currently working on a restaurant review application;
